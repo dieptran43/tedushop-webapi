@@ -1,0 +1,14 @@
+E:\Z_GIT_CLONE_PROJECT\TECHDU_ANGULAR\TeduShop.Model\bin\Debug\TeduShop.Model.dll.config
+E:\Z_GIT_CLONE_PROJECT\TECHDU_ANGULAR\TeduShop.Model\bin\Debug\TeduShop.Model.dll
+E:\Z_GIT_CLONE_PROJECT\TECHDU_ANGULAR\TeduShop.Model\bin\Debug\TeduShop.Model.pdb
+E:\Z_GIT_CLONE_PROJECT\TECHDU_ANGULAR\TeduShop.Model\bin\Debug\EntityFramework.dll
+E:\Z_GIT_CLONE_PROJECT\TECHDU_ANGULAR\TeduShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Z_GIT_CLONE_PROJECT\TECHDU_ANGULAR\TeduShop.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Z_GIT_CLONE_PROJECT\TECHDU_ANGULAR\TeduShop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Z_GIT_CLONE_PROJECT\TECHDU_ANGULAR\TeduShop.Model\bin\Debug\EntityFramework.xml
+E:\Z_GIT_CLONE_PROJECT\TECHDU_ANGULAR\TeduShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Z_GIT_CLONE_PROJECT\TECHDU_ANGULAR\TeduShop.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Z_GIT_CLONE_PROJECT\TECHDU_ANGULAR\TeduShop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Z_GIT_CLONE_PROJECT\TECHDU_ANGULAR\TeduShop.Model\obj\Debug\TeduShop.Model.csprojResolveAssemblyReference.cache
+E:\Z_GIT_CLONE_PROJECT\TECHDU_ANGULAR\TeduShop.Model\obj\Debug\TeduShop.Model.dll
+E:\Z_GIT_CLONE_PROJECT\TECHDU_ANGULAR\TeduShop.Model\obj\Debug\TeduShop.Model.pdb
